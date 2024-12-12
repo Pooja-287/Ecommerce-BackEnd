@@ -1,0 +1,27 @@
+[
+    {
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "password": "password123",
+      "isAdmin": false
+    },
+    {
+      "name": "Alice Smith",
+      "email": "alice@example.com",
+      "password": "securepass",
+      "isAdmin": false
+    },
+    {
+      "name": "Admin User",
+      "email": "admin@example.com",
+      "password": "adminpass",
+      "isAdmin": true
+    },
+    {
+      "name": "Robert Brown",
+      "email": "robert@example.com",
+      "password": "robertpass",
+      "isAdmin": false
+    }
+  ]
+  

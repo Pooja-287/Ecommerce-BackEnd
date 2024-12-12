@@ -1,0 +1,29 @@
+[
+    {
+      "userId": { "$oid": "648d74d6a68e5b35fcd12345" },
+      "orderItems": [
+        { "productId": { "$oid": "648d74d6a68e5b35fcd12346" }, "quantity": 2 },
+        { "productId": { "$oid": "648d74d6a68e5b35fcd12347" }, "quantity": 1 }
+      ],
+      "totalPrice": 71.98,
+      "status": "Pending"
+    },
+    {
+      "userId": { "$oid": "648d74d6a68e5b35fcd12346" },
+      "orderItems": [
+        { "productId": { "$oid": "648d74d6a68e5b35fcd12348" }, "quantity": 1 }
+      ],
+      "totalPrice": 15.00,
+      "status": "Completed"
+    },
+    {
+      "userId": { "$oid": "648d74d6a68e5b35fcd12347" },
+      "orderItems": [
+        { "productId": { "$oid": "648d74d6a68e5b35fcd12349" }, "quantity": 3 },
+        { "productId": { "$oid": "648d74d6a68e5b35fcd12346" }, "quantity": 1 }
+      ],
+      "totalPrice": 160.00,
+      "status": "Shipped"
+    }
+  ]
+  
