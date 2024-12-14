@@ -1,202 +1,266 @@
-[
-  {
-    "_id": { "$oid": "63f70b6c8a4e6f1c8cbe0005"},
-    "name": "Chicken Treat",
-    "category": "Treats",
-    "description": "Tasty chicken treat for your dog.",
-    "price": 10,
-    "image": "/images/chicken-treat.jpg"
+[{
+  "_id": {
+    "$oid": "63f70b6c8a4e6f1c8cbe0005"
   },
-  {
-    "_id":{ "$oid": "63f70b6c8a4e6f1c8cbe0009"},
-    "name": "Peanut Butter Treats",
-    "category": "Treats",
-    "description": "Healthy and delicious peanut butter flavor.",
-    "price": 10,
-    "image": "/images/peanut-butter-treats.jpg"
+  "name": "Chicken Treat",
+  "category": "Treats",
+  "description": "Tasty chicken treat for your dog.",
+  "price": 10,
+  "image": "/image/assets/chicken treats.jpg"
+},
+{
+  "_id": {
+    "$oid": "63f70b6c8a4e6f1c8cbe0009"
   },
-  {
-    "_id": { "$oid": "63f70b6c8a4e6f1c8cbe0011"},
-    "name": "Grain-Free Dog Biscuits",
-    "category": "Treats",
-    "description": "Crunchy biscuits with no added grains.",
-    "price": 9,
-    "image": "/images/grain-free-biscuits.jpg"
+  "name": "Peanut Butter Treats",
+  "category": "Treats",
+  "description": "Healthy and delicious peanut butter flavor.",
+  "price": 10,
+  "image": "/image/assets/peanut.jpg"
+},
+{
+  "_id": {
+    "$oid": "63f70b6c8a4e6f1c8cbe0011"
   },
-  {
-    "_id": { "$oid": "63f70b6c8a4e6f1c8cbe0018"},
-    "name": "Freeze-Dried Liver Treats",
-    "category": "Treats",
-    "description": "All-natural freeze-dried liver treats.",
-    "price": 11,
-    "image": "/images/freeze-dried-liver.jpg"
+  "name": "Grain-Free Dog Biscuits",
+  "category": "Treats",
+  "description": "Crunchy biscuits with no added grains.",
+  "price": 9,
+  "image": "/image/assets/Grain-Free Dog Biscuits.jpg"
+},
+{
+  "_id": {
+    "$oid": "63f70b6c8a4e6f1c8cbe0018"
   },
-  {
-    "_id": { "$oid": "63f70b6c8a4e6f1c8cbe0030"},
-    "name": "Duck Jerky Treats",
-    "category": "Treats",
-    "description": "Delicious jerky made from real duck meat.",
-    "price": 13,
-    "image": "/images/duck-jerky.jpg"
+  "name": "Freeze-Dried Liver Treats",
+  "category": "Treats",
+  "description": "All-natural freeze-dried liver treats.",
+  "price": 11,
+  "image": "/image/assets/freez drived.webp"
+},
+{
+  "_id": {
+    "$oid": "63f70b6c8a4e6f1c8cbe0030"
   },
-  {
-    "_id": { "$oid": "63f70b6c8a4e6f1c8cbe0031"},
-    "name": "Sweet Potato Chews",
-    "category": "Treats",
-    "description": "All-natural sweet potato chews for a healthy snack.",
-    "price": 8,
-    "image": "/images/sweet-potato-chews.jpg"
+  "name": "Duck Jerky Treats",
+  "category": "Treats",
+  "description": "Delicious jerky made from real duck meat.",
+  "price": 13,
+  "image": "/image/assets/duck jerky.jpg"
+},
+{
+  "_id": {
+    "$oid": "63f70b6c8a4e6f1c8cbe0031"
   },
-  {
-    "_id": { "$oid": "63f70b6c8a4e6f1c8cbe0043"},
-    "name": "Pumpkin Dog Treats",
-    "category": "Treats",
-    "description": "Pumpkin-flavored treats rich in vitamins.",
-    "price": 10,
-    "image": "/images/pumpkin-dog-treats.jpg"
+  "name": "Sweet Potato Chews",
+  "category": "Treats",
+  "description": "All-natural sweet potato chews for a healthy snack.",
+  "price": 8,
+  "image": "/image/assets/sweet potato.jpg"
+},
+{
+  "_id": {
+    "$oid": "63f70b6c8a4e6f1c8cbe0043"
   },
-  {
-    "_id": { "$oid": "63f70b6c8a4e6f1c8cbe0044"},
-    "name": "Apple Cinnamon Biscuits",
-    "category": "Treats",
-    "description": "Crunchy biscuits with apple and cinnamon flavors.",
-    "price": 9,
-    "image": "/images/apple-cinnamon-biscuits.jpg"
+  "name": "Pumpkin Dog Treats",
+  "category": "Treats",
+  "description": "Pumpkin-flavored treats rich in vitamins.",
+  "price": 10,
+  "image": "/image/assets/pumbkin.jpg"
+},
+{
+  "_id": {
+    "$oid": "63f70b6c8a4e6f1c8cbe0044"
   },
-  {
-    "_id": { "$oid": "63f70b6c8a4e6f1c8cbe0032"},
-    "name": "Dental Bone",
-    "category": "Bones",
-    "description": "Helps maintain your dog’s dental health.",
-    "price": 12,
-    "image": "/images/dental-bone.jpg"
+  "name": "Apple Cinnamon Biscuits",
+  "category": "Treats",
+  "description": "Crunchy biscuits with apple and cinnamon flavors.",
+  "price": 9,
+  "image": "/image/assets/apple china.jpg"
+},
+{
+  "_id": {
+    "$oid": "63f70b6c8a4e6f1c8cbe0032"
   },
-  {
-    "_id": { "$oid": "63f70b6c8a4e6f1c8cbe0033"},
-    "name": "Rawhide Bone",
-    "category": "Bones",
-    "description": "Traditional rawhide bone for chewing enjoyment.",
-    "price": 10,
-    "image": "/images/rawhide-bone.jpg"
+  "name": "Dental Bone",
+  "category": "Bones",
+  "description": "Helps maintain your dog’s dental health.",
+  "price": 12,
+  "image": "/images/assets/dental bone.jpg"
+},
+{
+  "_id": {
+    "$oid": "63f70b6c8a4e6f1c8cbe0033"
   },
-  {
-    "_id": { "$oid": "63f70b6c8a4e6f1c8cbe0045"},
-    "name": "Chicken-Flavored Bone",
-    "category": "Bones",
-    "description": "Chicken-flavored bone for hours of chewing fun.",
-    "price": 12,
-    "image": "/images/chicken-flavored-bone.jpg"
+  "name": "Rawhide Bone",
+  "category": "Bones",
+  "description": "Traditional rawhide bone for chewing enjoyment.",
+  "price": 10,
+  "image": "/image/assets/rawhide.jpg"
+},
+{
+  "_id": {
+    "$oid": "63f70b6c8a4e6f1c8cbe0045"
   },
-  {
-    "_id":{ "$oid": "63f70b6c8a4e6f1c8cbe0046"},
-    "name": "Beef Marrow Bone",
-    "category": "Bones",
-    "description": "Natural beef marrow bone for long-lasting chewing.",
-    "price": 14,
-    "image": "/images/beef-marrow-bone.jpg"
+  "name": "Chicken-Flavored Bone",
+  "category": "Bones",
+  "description": "Chicken-flavored bone for hours of chewing fun.",
+  "price": 12,
+  "image": "/image/assets/chicken bones.jpg"
+},
+{
+  "_id": {
+    "$oid": "63f70b6c8a4e6f1c8cbe0046"
   },
-  {
-    "_id": { "$oid": "63f70b6c8a4e6f1c8cbe0034"},
-    "name": "Lamb Chew Stick",
-    "category": "Chews",
-    "description": "Lamb flavored chew stick, perfect for your dog’s teeth.",
-    "price": 14,
-    "image": "/images/lamb-chew-stick.jpg"
+  "name": "Beef Marrow Bone",
+  "category": "Bones",
+  "description": "Natural beef marrow bone for long-lasting chewing.",
+  "price": 14,
+  "image": "/image/assets/beefs bone.jpg"
+},
+{
+  "_id": {
+    "$oid": "63f70b6c8a4e6f1c8cbe0034"
   },
-  {
-    "_id": { "$oid": "63f70b6c8a4e6f1c8cbe0035"},
-    "name": "Beef Chew Bone",
-    "category": "Chews",
-    "description": "Durable beef chew bone for long-lasting fun.",
-    "price": 15,
-    "image": "/images/beef-chew-bone.jpg"
+  "name": "Lamb Chew Stick",
+  "category": "Chews",
+  "description": "Lamb flavored chew stick, perfect for your dog’s teeth.",
+  "price": 14,
+  "image": "/image/assets/chew stick.jpg"
+},
+{
+  "_id": {
+    "$oid": "63f70b6c8a4e6f1c8cbe0035"
   },
-  {
-    "_id": { "$oid": "63f70b6c8a4e6f1c8cbe0047"},
-    "name": "Turkey Chew Stick",
-    "category": "Chews",
-    "description": "Turkey-flavored chew sticks for all-day fun.",
-    "price": 13,
-    "image": "/images/turkey-chew-stick.jpg"
+  "name": "Beef Chew Bone",
+  "category": "Chews",
+  "description": "Durable beef chew bone for long-lasting fun.",
+  "price": 15,
+  "image": "/image/assets/Beef Chew Bone.jpg"
+},
+{
+  "_id": {
+    "$oid": "63f70b6c8a4e6f1c8cbe0047"
   },
-  {
-    "_id":{ "$oid": "63f70b6c8a4e6f1c8cbe0037"},
-    "name": "Venison Chews",
-    "category": "Chews",
-    "description": "Venison flavored chews for picky dogs.",
-    "price": 12,
-    "image": "/images/venison-chews.jpg"
+  "name": "Turkey Chew Stick",
+  "category": "Chews",
+  "description": "Turkey-flavored chew sticks for all-day fun.",
+  "price": 13,
+  "image": "/image/assets/Turkey Chew Stick.jpg"
+},
+{
+  "_id": {
+    "$oid": "63f70b6c8a4e6f1c8cbe0037"
   },
-  {
-    "_id": { "$oid": "63f70b6c8a4e6f1c8cbe0038"},
-    "name": "Bully Stick 6 inches",
-    "category": "Bully Sticks",
-    "description": "High-quality, all-natural bully sticks for dogs.",
-    "price": 8,
-    "image": "/images/bully-stick-6.jpg"
+  "name": "Venison Chews",
+  "category": "Chews",
+  "description": "Venison flavored chews for picky dogs.",
+  "price": 12,
+  "image": "/image/assets/Venison Chews.jpg"
+},
+{
+  "_id": {
+    "$oid": "63f70b6c8a4e6f1c8cbe0038"
   },
-  {
-    "_id": { "$oid": "63f70b6c8a4e6f1c8cbe0039"},
-    "name": "Bully Stick 12 inches",
-    "category": "Bully Sticks",
-    "description": "Longer-lasting bully stick for larger breeds.",
-    "price": 15,
-    "image": "/images/bully-stick-12.jpg"
+  "name": "Bully Stick 6 inches",
+  "category": "Bully Sticks",
+  "description": "High-quality, all-natural bully sticks for dogs.",
+  "price": 8,
+  "image": "/image/assets/Bully Stick 6 inches.jpg"
+},
+{
+  "_id": {
+    "$oid": "63f70b6c8a4e6f1c8cbe0039"
   },
-  {
-    "_id": { "$oid": "63f70b6c8a4e6f1c8cbe0048"},
-    "name": "Twisted Bully Stick",
-    "category": "Bully Sticks",
-    "description": "Twisted bully stick for extra chewing fun.",
-    "price": 14,
-    "image": "/images/twisted-bully-stick.jpg"
+  "name": "Bully Stick 12 inches",
+  "category": "Bully Sticks",
+  "description": "Longer-lasting bully stick for larger breeds.",
+  "price": 15,
+  "image": "/image/assets/Bully Stick 12 inches.jpg"
+},
+{
+  "_id": {
+    "$oid": "63f70b6c8a4e6f1c8cbe0048"
   },
-  {
-    "_id": { "$oid": "63f70b6c8a4e6f1c8cbe0049"},
-    "name": "Odor-Free Bully Stick",
-    "category": "Bully Sticks",
-    "description": "Odor-free bully stick for a mess-free chew.",
-    "price": 10,
-    "image": "/images/odor-free-bully-stick.jpg"
+  "name": "Twisted Bully Stick",
+  "category": "Bully Sticks",
+  "description": "Twisted bully stick for extra chewing fun.",
+  "price": 14,
+  "image": "/image/assets/Twisted Bully Stick.jpg"
+},
+{
+  "_id": {
+    "$oid": "63f70b6c8a4e6f1c8cbe0049"
   },
-  {
-    "_id": { "$oid": "63f70b6c8a4e6f1c8cbe0040"},
-    "name": "Bulk Chicken Treats",
-    "category": "Bulk Treats",
-    "description": "Bulk package of chicken treats for larger servings.",
-    "price": 50,
-    "image": "/images/bulk-chicken-treats.jpg"
+  "name": "Odor-Free Bully Stick",
+  "category": "Bully Sticks",
+  "description": "Odor-free bully stick for a mess-free chew.",
+  "price": 10,
+  "image": "/image/assets/Odor-Free Bully Stick.jpg"
+},
+{
+  "_id": {
+    "$oid": "63f70b6c8a4e6f1c8cbe0040"
   },
-  {
-    "_id": { "$oid": "63f70b6c8a4e6f1c8cbe0041"},
-    "name": "Bulk Peanut Butter Treats",
-    "category": "Bulk Treats",
-    "description": "Bulk-sized pack of peanut butter treats.",
-    "price": 55,
-    "image": "/images/bulk-peanut-butter.jpg"
+  "name": "Bulk Chicken Treats",
+  "category": "Bulk Treats",
+  "description": "Bulk package of chicken treats for larger servings.",
+  "price": 50,
+  "image": "/image/assets/Bulk Chicken Treats.jpg"
+},
+{
+  "_id": {
+    "$oid": "63f70b6c8a4e6f1c8cbe0041"
   },
-  {
-    "_id": { "$oid": "63f70b6c8a4e6f1c8cbe0042"},
-    "name": "Bulk Sweet Potato Chews",
-    "category": "Bulk Treats",
-    "description": "Larger pack of sweet potato chews for frequent snacks.",
-    "price": 60,
-    "image": "/images/bulk-sweet-potato.jpg"
+  "name": "Bulk Peanut Butter Treats",
+  "category": "Bulk Treats",
+  "description": "Bulk-sized pack of peanut butter treats.",
+  "price": 55,
+  "image": "/image/assets/Bulk Peanut Butter Treats.jpg"
+},
+{
+  "_id": {
+    "$oid": "63f70b6c8a4e6f1c8cbe0042"
   },
-  {
-    "_id": { "$oid": "63f70b6c8a4e6f1c8cbe0050"},
-    "name": "Bulk Duck Jerky",
-    "category": "Bulk Treats",
-    "description": "Bulk package of delicious duck jerky treats.",
-    "price": 65,
-    "image": "/images/bulk-duck-jerky.jpg"
+  "name": "Bulk Sweet Potato Chews",
+  "category": "Bulk Treats",
+  "description": "Larger pack of sweet potato chews for frequent snacks.",
+  "price": 60,
+  "image": "/image/assets/Bulk Sweet Potato Chews.jpg"
+},
+{
+  "_id": {
+    "$oid": "63f70b6c8a4e6f1c8cbe0050"
   },
-  {
-    "_id": { "$oid": "63f70b6c8a4e6f1c8cbe0051"},
-    "name": "Bulk Freeze-Dried Liver",
-    "category": "Bulk Treats",
-    "description": "Value pack of freeze-dried liver treats.",
-    "price": 70,
-    "image": "/images/bulk-freeze-dried-liver.jpg"
-  }
-]
+  "name": "Bulk Duck Jerky",
+  "category": "Bulk Treats",
+  "description": "Bulk package of delicious duck jerky treats.",
+  "price": 65,
+  "image": "/image/assets/Bulk Duck Jerky.jpg"
+},
+{
+  "_id": {
+    "$oid": "63f70b6c8a4e6f1c8cbe0051"
+  },
+  "name": "Bulk Freeze-Dried Liver",
+  "category": "Bulk Treats",
+  "description": "Value pack of freeze-dried liver treats.",
+  "price": 70,
+  "image": "/image/assets/Bulk Freeze-Dried Liver.jpg"
+},
+{
+  "_id": {
+    "$oid": "6759264870772d13fc5f0981"
+  },
+  "name": "Chicken Treat",
+  "description": "Tasty chicken treat for your dog.",
+  "price": 10,
+  "stock": 50,
+  "created_at": {
+    "$date": "2024-12-11T05:42:32.223Z"
+  },
+  "updated_at": {
+    "$date": "2024-12-11T05:42:32.224Z"
+  },
+  "__v": 0
+}]
